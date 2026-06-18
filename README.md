@@ -42,6 +42,10 @@ I build practical projects using AWS, Terraform, Docker, Kubernetes, Linux, and 
 - CI/CD
 - Infrastructure as Code
 
+### Programming
+- Python
+- Bash scripting
+
 ### Systems
 - Linux
 - Bash
