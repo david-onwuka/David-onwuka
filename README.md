@@ -1,54 +1,166 @@
-# David Onwuka
+# Hi, I'm David Onwuka
 
-Cloud/DevOps Engineer focused on AWS, Kubernetes, Docker, Terraform, and CI/CD automation.
+## DevOps Engineer | Cloud Engineer
 
-I build cloud infrastructure, automate deployments, and work with containerized applications.
+I am a DevOps and Cloud Engineering enthusiast focused on building reliable, automated, and scalable infrastructure.
 
-## Featured Projects
+My work focuses on Infrastructure as Code, containerization, cloud deployment, automation, and CI/CD practices.
 
-### Terraform Kubernetes CI/CD Deployment Platform
-Cloud-native deployment platform built with Terraform, Docker, Kubernetes, and GitHub Actions.
+I build practical projects using AWS, Terraform, Docker, Kubernetes, Linux, and GitHub Actions while continuously improving my cloud engineering skills.
+
+---
+
+## About Me
+
+- Building real-world DevOps and Cloud projects
+- Learning and practicing AWS cloud architecture
+- Automating infrastructure with Terraform
+- Containerizing applications with Docker
+- Deploying workloads with Kubernetes
+- Creating CI/CD pipelines with GitHub Actions
+- Improving Linux and cloud administration skills
+
+---
+
+## Skills
+
+### Cloud
+- AWS
+- EC2
+- S3
+- CloudFront
+- Lambda
+- DynamoDB
+- IAM
+- VPC basics
+
+### DevOps
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Infrastructure as Code
+
+### Systems
+- Linux
+- Bash
+- Git
+- Networking fundamentals
+
+---
+
+# Featured Projects
+
+## Terraform Kubernetes CI/CD Deployment Platform
+
+Cloud-native deployment workflow using Terraform, Docker, Kubernetes, and GitHub Actions.
 
 Highlights:
+
 - Infrastructure as Code using Terraform
-- Containerized application using Docker
-- Kubernetes deployment with replicas, rolling updates, probes, and resource management
-- Automated CI/CD pipeline with GitHub Actions
-- Application deployment and validation workflow
+- Docker containerization
+- Kubernetes deployment
+- Kubernetes services
+- Rolling updates
+- Readiness and liveness probes
+- Resource requests and limits
+- Automated CI/CD pipeline
 
 Repository:
+
 https://github.com/david-onwuka/terraform-kubernetes-cicd
 
 
-### AWS EC2 Cloud Deployment Project
-Cloud infrastructure deployment project using AWS EC2 and DevOps automation practices.
+---
+
+## AWS Cloud Resume Challenge
+
+Serverless cloud project demonstrating AWS architecture and cloud automation.
 
 Highlights:
-- AWS compute infrastructure
-- Linux server administration
-- Application deployment
-- Security configuration
-- Cloud networking fundamentals
+
+- AWS S3 static website hosting
+- CloudFront distribution
+- Lambda functions
+- DynamoDB visitor counter
+- API integration
+- Cloud deployment practices
+
+Repository:
+
+https://github.com/david-onwuka/cloud-resume-challenge
 
 
-### Terraform AWS Infrastructure Project
-Infrastructure as Code project for provisioning AWS resources.
+---
+
+## Terraform AWS EC2 CI/CD
+
+AWS infrastructure automation project using Terraform and deployment automation.
 
 Highlights:
-- Terraform configuration management
-- Reusable infrastructure approach
-- Cloud resource automation
-- Version-controlled infrastructure
+
+- AWS EC2 provisioning
+- Infrastructure automation
+- Server configuration
+- CI/CD workflow
+- Cloud deployment practice
+
+Repository:
+
+https://github.com/david-onwuka/terraform-aws-ec2-cicd
 
 
-### Docker CI/CD Automation Project
-Continuous Integration and Deployment project focused on automating application delivery.
+---
+
+## Kubernetes Nginx CI/CD
+
+Container orchestration project using Kubernetes and Docker.
 
 Highlights:
-- Docker image building
-- Automated testing workflow
-- Deployment automation
-- CI/CD pipeline practices
-## Tech Stack
 
-AWS | Terraform | Docker | Kubernetes | GitHub Actions | Linux
+- Kubernetes deployments
+- Nginx container deployment
+- Docker images
+- Service exposure
+- CI/CD concepts
+
+Repository:
+
+https://github.com/david-onwuka/kubernetes-nginx-cicd
+
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+
+Terraform • AWS • Docker • Kubernetes • GitHub Actions • Linux • Git • Bash
+
+</p>
+
+---
+
+## Current Focus
+
+Currently improving my skills in:
+
+- AWS cloud engineering
+- Kubernetes production deployments
+- Terraform automation
+- DevOps best practices
+- CI/CD pipeline design
+
+---
+
+## Goals
+
+My goal is to build production-ready cloud infrastructure and grow into a professional DevOps / Cloud Engineer role.
+
+---
+
+## Connect With Me
+
+GitHub:
+https://github.com/david-onwuka
