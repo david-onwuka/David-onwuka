@@ -1,6 +1,6 @@
 # Hi, I'm Eme David Onwuka
 
-## DevOps Engineer | Cloud Engineer
+## Cloud & DevOps Engineer
 
 I am a DevOps and Cloud Engineering enthusiast focused on building reliable, automated, and scalable infrastructure.
 
@@ -148,7 +148,7 @@ Terraform • AWS • Docker • Kubernetes • GitHub Actions • Linux • Git
 
 ## Current Focus
 
-Currently improving my skills in:
+Currently focused on:
 
 - AWS cloud engineering
 - Kubernetes production deployments
@@ -160,7 +160,7 @@ Currently improving my skills in:
 
 ## Goals
 
-My goal is to build production-ready cloud infrastructure and grow into a professional DevOps / Cloud Engineer role.
+My focus is building reliable, automated, and scalable cloud infrastructure using modern DevOps practices.
 
 ---
 
